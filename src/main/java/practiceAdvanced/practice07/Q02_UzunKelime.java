@@ -11,9 +11,7 @@ public class Q02_UzunKelime {
          */
     public static void main(String[] args) {
 
-
         System.out.println(enUzunKelime());
-
 
     }
 
@@ -41,8 +39,6 @@ public class Q02_UzunKelime {
         return enUzunKelimeler;
 
     }
-
-
 
 
 }

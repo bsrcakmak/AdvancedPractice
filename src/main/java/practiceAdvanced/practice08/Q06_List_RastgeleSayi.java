@@ -35,8 +35,6 @@ public class Q06_List_RastgeleSayi {
                 list.set(i,"CiftSayi");
             }
 
-
-
         }
         System.out.println(list);
 

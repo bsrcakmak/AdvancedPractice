@@ -2,7 +2,6 @@ package practiceAdvanced.practice09.Q04_Interface_MaasHesaplama;
 
 public class MaasHesapla implements MaasArttir,Vergi{
 
-
     @Override
     public double yillikEkstra(int calismaYili) {
         System.out.println("Yillik Ekstra: "+ calismaYili*100);

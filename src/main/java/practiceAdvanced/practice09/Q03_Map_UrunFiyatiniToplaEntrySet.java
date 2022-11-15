@@ -23,7 +23,6 @@ public class Q03_Map_UrunFiyatiniToplaEntrySet {
 
         System.out.println(fiyatToplami(urunFiyati));
 
-
     }
 
     public static double fiyatToplami(Map<String, Double> map) {
@@ -35,14 +34,11 @@ public class Q03_Map_UrunFiyatiniToplaEntrySet {
 
         double toplam = 0;
 
-
         for (Map.Entry<String, Double> w : map.entrySet()) {  // key ve value'lari birlikte gormek istersek
             toplam += w.getValue();
-
         }
 
         return toplam;
-
 
     }
 }

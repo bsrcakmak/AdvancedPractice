@@ -23,7 +23,4 @@ public class Q01_Varargs_NotOrtalamasi {
     }
 
 
-
-
-
 }

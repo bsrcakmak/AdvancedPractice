@@ -5,4 +5,5 @@ public class Dikdortgen extends Alan{
     double alanHesapla(double en, double boy) {
         return en*boy;
     }
+
 }

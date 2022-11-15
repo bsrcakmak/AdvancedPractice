@@ -5,4 +5,5 @@ public class Ucgen extends Alan{
     double alanHesapla(double taban, double yukseklik) {
         return taban*yukseklik/2;
     }
+
 }

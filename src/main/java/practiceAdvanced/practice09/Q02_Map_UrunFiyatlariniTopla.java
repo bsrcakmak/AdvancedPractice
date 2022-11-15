@@ -23,7 +23,6 @@ public class Q02_Map_UrunFiyatlariniTopla {
 
         System.out.println(fiyatToplami(urunFiyati));
 
-
     }
 
     public static double fiyatToplami(Map<String, Double> map){
@@ -42,11 +41,6 @@ public class Q02_Map_UrunFiyatlariniTopla {
 
         return toplam;
 
-
-
     }
-
-
-
 
 }

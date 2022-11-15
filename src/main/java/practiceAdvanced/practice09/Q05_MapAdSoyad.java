@@ -22,7 +22,6 @@ public class Q05_MapAdSoyad {
            adSoyad.put(ad[i],soyad[i]);
        }
         System.out.println("ad-soyad = " + adSoyad); // ad-soyad = {John=Doe, Mark=Twain, Ali=Can}
-
     }
 
 }

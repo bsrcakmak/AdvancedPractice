@@ -18,7 +18,6 @@ public class Q06_KelimeleriSay {
         kelimeleriSay(str);
     }
 
-
     public static void kelimeleriSay(String str){
         String yeniString = str.replaceAll("\\p{Punct}", "").replaceAll("\\s+", " ").trim();
 

@@ -12,9 +12,6 @@ public class Runner {
         Dikdortgen dikdortgen = new Dikdortgen();
         System.out.println(dikdortgen.alanHesapla(5,4));
 
-
     }
-
-
 
 }

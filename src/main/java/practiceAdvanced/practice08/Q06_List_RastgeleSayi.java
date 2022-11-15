@@ -17,7 +17,7 @@ public class Q06_List_RastgeleSayi {
 
          rastgeleSayiEkle();
 
-    }
+   }
 
     static void rastgeleSayiEkle(){
 
